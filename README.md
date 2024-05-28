@@ -14,6 +14,7 @@ For Motorola One Fusion Plus (liber)
 ***Apps***
 - [Magisk Manager](https://github.com/topjohnwu/Magisk/releases)  
 - [Migrate Flasher](https://github.com/Bharadwaj-R/Custom-ROM-Essentials/blob/main/Migrate%20Flasher.apk)
+- [Migrate Helper](https://github.com/Bharadwaj-R/Custom-ROM-Essentials/blob/main/Migrate%20Helper.apk)
 - [MRepo](https://github.com/MRepoApp/MRepo/)
 - [QuickSwitch](https://github.com/skittles9823/QuickSwitch/releases) `Optional`
 - [Migrate NG](https://github.com/Bharadwaj-R/Custom-ROM-Essentials/blob/main/Migrate%20NG.apk) `Optional`
